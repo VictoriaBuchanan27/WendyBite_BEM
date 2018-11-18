@@ -1,0 +1,39 @@
+
+html, body {
+    height: 100%;
+    
+}
+.fullBackground{
+    background-color: rgb(154, 150, 150);
+    height: 100%;
+    padding: 8%;
+}
+.background{
+    background-color: rgb(154, 150, 150);
+    display:flex;
+    
+    width:100%;
+    height: 100%;
+}
+.border{
+    border-style: solid;
+    border-color: blueviolet;
+    border-width:5px;
+    height: 100%;
+    padding:20px;
+   
+
+}
+.middleText{
+    text-align: center;
+    
+}
+.photo{
+    float:right;
+    height: 25%;
+    width:25%;
+    margin: 10%;
+}
+.text{
+    text-align: left;
+}
